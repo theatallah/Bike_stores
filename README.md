@@ -8,5 +8,4 @@ Dashboard is created to show below visuals
 4. Monthly/Yearly Revenue
 5. Revenues Per Category
 6. Revenue By Product
-7. Revenue By States
-8. % Revenue by Stores
+
